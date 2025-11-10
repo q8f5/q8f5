@@ -2,8 +2,10 @@
 <h1 align="center">👋 Hi!</h1>
 <p align="center">
 	jus havin fun and i'm mohammad btw:0</em></p>
-
-ify-content: center; width: fit-content; box-shadow: 0px 3px 5px #00000010">
+	
+<div align="center" style="margin-block: 1.5em">
+	<h2>Languages</h2>
+	<div style="background-color: #282A3682; border-radius: 2em; padding: 1em; display: flex; justify-content: center; width: fit-content; box-shadow: 0px 3px 5px #00000010">
 		<a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" /></a>
 		<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="https://skillicons.dev/icons?i=cs&theme=dark" /></a>
 		<a href="https://en.wikipedia.org/wiki/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" /></a>
@@ -49,9 +51,6 @@ ify-content: center; width: fit-content; box-shadow: 0px 3px 5px #00000010">
 	<div style="background-color: #282A3682; border-radius: 2em; padding: 1em; display: flex; justify-content: center; width: fit-content; box-shadow: 0px 3px 5px #00000010">
 		<a href="https://discord.com/users/532132099747217408">
 			<img src="https://lanyard.cnrad.dev/api/532132099747217408?borderRadius=10px&animated=:true&bg=000000FF&idleMessage=doing+absolutely+nothing+(or+atleast+thats+what+you+think)" />
-		</a>
-		<img width="10px" height="1px" src="https://i.imgur.com/DkKayja.png">
-			
 	</div>
 	<h2>Statistics <img style="margin-top: 1em" src="https://komarev.com/ghpvc/?username=q8f5&style=plastic&color=000000&label=Profile+views" alt="Profile views" /></h2>
 	<div>
