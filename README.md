@@ -1,7 +1,7 @@
 <!-- markdownlint-disable-file MD001 MD033 -->
-<h1 align="center">👋 Hi!</h1>
+<h1 align="center">👋 Hi There!</h1>
 <p align="center">
-	jus havin fun and i'm mohammad btw:0</em></p>
+	jus havin fun and i'm mohammad btw :()</em></p>
 	
 <div align="center" style="margin-block: 1.5em">
 	<h2>Languages</h2>
