@@ -1,65 +1,127 @@
 <!-- markdownlint-disable-file MD001 MD033 -->
-<h1 align="center">👋 Hi There!</h1>
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="60" height="60" />
+  
+  <h1>Hey, I'm Mohammad</h1>
+  
+  <p>
+    <em>just havin' fun · coding · learning · vibing</em>
+  </p>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=q8f5&style=flat-square&color=6e40c9&label=Profile+Views" alt="Profile views" />
+  </p>
+
+  <br/>
+
+  <!-- Typing SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=C9B3FF&center=true&vCenter=true&width=435&lines=Full-stack+developer;Currently+learning+Rust+%26+Go;Always+building+something" alt="Typing SVG" />
+  </a>
+
+</div>
+
+<br/>
+
+---
+
+### About Me
+
+```text
+> The life is just something that keeps going,
+> but when the time comes it will disappear in no time.
+```
+
+I'm Mohammad — a developer who enjoys building things, exploring new languages, and having fun along the way.  
+Mostly hanging out on Earth.
+
+---
+
+### Languages & Technologies
+
 <p align="center">
-	jus havin fun and i'm mohammad btw :()</em></p>
-	
-<div align="center" style="margin-block: 1.5em">
-	<h2>Languages</h2>
-	<div style="background-color: #282A3682; border-radius: 2em; padding: 1em; display: flex; justify-content: center; width: fit-content; box-shadow: 0px 3px 5px #00000010">
-		<a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" /></a>
-		<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="https://skillicons.dev/icons?i=cs&theme=dark" /></a>
-		<a href="https://en.wikipedia.org/wiki/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" /></a>
-		<a href="https://en.wikipedia.org/wiki/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" /></a>
-		<a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" /></a>
-		<a href="https://en.wikipedia.org/wiki/TypeScript"><img src="https://skillicons.dev/icons?i=ts&theme=dark" /></a>
-		<a href="https://en.wikipedia.org/wiki/Node.js"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" /></a>
-		<a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img src="https://skillicons.dev/icons?i=java&theme=dark" /></a>
-		<a href="https://en.wikipedia.org/wiki/Kotlin_(programming_language)"><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" /></a>
-		<a href="https://en.wikipedia.org/wiki/Gradle"><img src="https://skillicons.dev/icons?i=gradle&theme=dark" /></a>
-		<a href="https://en.wikipedia.org/wiki/Lua_(programming_language)"><img src="https://skillicons.dev/icons?i=lua&theme=dark" /></a>
-		<a href="https://en.wikipedia.org/wiki/PHP"><img src="https://skillicons.dev/icons?i=php&theme=dark" /></a>
-		<a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="https://skillicons.dev/icons?i=py&theme=dark" /></a>
-		<a href="https://en.wikipedia.org/wiki/Regular_expression"><img src="https://skillicons.dev/icons?i=regex&theme=dark" /></a>
-		<h3>Currently learning</h3>
-		<a href="https://en.wikipedia.org/wiki/Rust_(programming_language)"><img src="https://skillicons.dev/icons?i=rust&theme=dark" /></a>
-		<a href="https://en.wikipedia.org/wiki/Go_(programming_language)"><img src="https://skillicons.dev/icons?i=go&theme=dark" /></a>
-	</div>
-	<h2>Tools</h2>
-	<div style="background-color: #282A3682; border-radius: 2em; padding: 1em; display: flex; justify-content: center; width: fit-content; box-shadow: 0px 3px 5px #00000010">
-		<a href="https://www.git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" /></a>
-		<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
-		<a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea&theme=dark" /></a>
-		<a href="https://www.jetbrains.com/rider/"><img src="https://skillicons.dev/icons?i=rider&theme=dark" /></a>
-		<a href="https://www.jetbrains.com/pycharm/"><img src="https://skillicons.dev/icons?i=pycharm&theme=dark" /></a>
-		<a href="https://www.jetbrains.com/webstorm/"><img src="https://skillicons.dev/icons?i=webstorm&theme=dark" /></a>
-		<a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" /></a>
-		<a href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" /></a>
-		<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></a>
-		<a href="https://www.sublimetext.com/"><img src="https://skillicons.dev/icons?i=sublime&theme=dark" /></a>
-		<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash&theme=dark" /></a>
-		<a href="https://learn.microsoft.com/en-us/powershell/"><img src="https://skillicons.dev/icons?i=powershell&theme=dark" /></a>
-	</div>
-	<h2>Socials</h2>
-	<div style="background-color: #282A3682; border-radius: 2em; padding: 1em; display: flex; justify-content: center; width: fit-content; box-shadow: 0px 3px 5px #00000010">
-		<a href="https://youtube.com/@Berlin_1911"><img width="48px" src="https://github.com/xifil/xifil/blob/master/assets/png/youtube.png?raw=true" /></a>
-		<a href="https://open.spotify.com/user/5immy1faqvza0kvnj3rmgfa85"><img width="48px" src="https://github.com/xifil/xifil/blob/master/assets/png/spotify.png?raw=true" /></a>
-		<a href="https://discord.com/users/532132099747217408/"><img src="https://skillicons.dev/icons?i=discord&theme=dark" /></a>
-	    <a href="https://twitter.com/CheatBreakerX"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" /></a>
-		<a href="https://instagram.com/pubg.captain_"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
-	</div>
-	<h2>Status</h2>
-	<div style="background-color: #282A3682; border-radius: 2em; padding: 1em; display: flex; justify-content: center; width: fit-content; box-shadow: 0px 3px 5px #00000010">
-		<a href="https://discord.com/users/532132099747217408">
-			<img src="https://lanyard.cnrad.dev/api/532132099747217408?borderRadius=10px&animated=:true&bg=000000FF&idleMessage=doing+absolutely+nothing+(or+atleast+thats+what+you+think)" />
-	</div>
-	<h2>Statistics <img style="margin-top: 1em" src="https://komarev.com/ghpvc/?username=q8f5&style=plastic&color=000000&label=Profile+views" alt="Profile views" /></h2>
-	<div>
-		<!-- Left -->
-		<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=q8f5&theme=midnight-purple&layout=compact&hide_border=true&langs_count=14">
-		<!-- Right -->
-		<img width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=q8f5&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&icon_color=fff&hide_border=true">
-		<img width="45%" height="32px" align="right" src="https://i.imgur.com/DkKayja.png">
-		<img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=q8f5&theme=midnight-purple&hide_border=true">
-		<img width="45%" height="32px" align="right" src="https://i.imgur.com/DkKayja.png">
-	</div>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,java,kotlin,python,js,ts,nodejs,html,css,php,lua,regex&theme=dark" />
+  </a>
+</p>
+
+#### Currently Learning
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,go&theme=dark" />
+  </a>
+</p>
+
+---
+
+### Tools & Environment
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,webstorm,rider,androidstudio,visualstudio,sublime,bash,powershell,gradle&theme=dark" />
+  </a>
+</p>
+
+---
+
+### Connect with Me
+
+<p align="center">
+  <a href="https://youtube.com/@Berlin_1911">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://open.spotify.com/user/5immy1faqvza0kvnj3rmgfa85">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+  </a>
+  <a href="https://discord.com/users/532132099747217408">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://twitter.com/CheatBreakerX">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://instagram.com/pubg.captain_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+---
+
+### Discord Status
+
+<p align="center">
+  <a href="https://discord.com/users/532132099747217408">
+    <img src="https://lanyard.cnrad.dev/api/532132099747217408?borderRadius=12px&animated=true&bg=0D1117&idleMessage=doing+absolutely+nothing+(or+at+least+that's+what+you+think)" alt="Discord Status" />
+  </a>
+</p>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=q8f5&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&icon_color=c9b3ff&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=q8f5&theme=midnight-purple&layout=compact&hide_border=true&langs_count=10&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=q8f5&theme=midnight-purple&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=q8f5&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" alt="Trophies" />
+</div>
+
+---
+
+<div align="center">
+  <br/>
+  <em>thanks for stopping by · keep building</em>
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" alt="Purple Heart" width="25" height="25" />
 </div>
